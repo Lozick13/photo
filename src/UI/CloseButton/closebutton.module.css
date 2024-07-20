@@ -1,0 +1,14 @@
+.close-button {
+	border-radius: 50%;
+	border: 2px solid #8b8b8b;
+	background: #fff;
+	width: 30px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+i {
+	color: #8b8b8b;
+}

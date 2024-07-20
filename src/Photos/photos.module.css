@@ -1,0 +1,5 @@
+.photos {
+	display: flex;
+	gap: 66px;
+	flex-wrap: wrap;
+}

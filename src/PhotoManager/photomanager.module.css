@@ -1,0 +1,6 @@
+.photo-manager {
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+	width: 800px;
+}

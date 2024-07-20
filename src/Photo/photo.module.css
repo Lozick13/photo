@@ -1,0 +1,16 @@
+.photo {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	border: solid 2px #8b8b8b;
+}
+.photo__button {
+	position: absolute;
+	left: 130px;
+	top: -15px;
+}
+.photo__image {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
